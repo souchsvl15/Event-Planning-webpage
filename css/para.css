@@ -15,7 +15,7 @@ body{
 
 }
 .box{
-	background-image:url("C:/Users/SOUMYA/Documents/htmlprojects/parallax/paraimg.jpg");
+	background-image:url("paraimg.jpg");
 	height:100vh;
 }
 #check{
@@ -122,7 +122,7 @@ h5{
 }
 
 .box2{
-	background-image:url("C:/Users/SOUMYA/Documents/htmlprojects/parallax/paraimg2.jpg");
+	background-image:url("paraimg2.jpg");
 	min-height:400px;
 
 }
@@ -140,7 +140,7 @@ h5{
 	color:#bf00ff;
 }
 .box3{
-	background-image:url("C:/Users/SOUMYA/Documents/htmlprojects/parallax/birthdaypara.jpg");
+	background-image:url("birthdaypara.jpg");
 	min-height:400px;
 }
 .birth p{
@@ -160,7 +160,7 @@ h5{
 	color:#666;
 }
 .box4{
-	background-image:url("C:/Users/SOUMYA/Documents/htmlprojects/parallax/marrimgpara.jpg");
+	background-image:url("marrimgpara.jpg");
 	min-height:400px;
 }
 .mar p{
