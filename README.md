@@ -7,3 +7,4 @@ A sample web page for event planning using HTML and CSS
 ![](Responsive%20outputs/desktopview.PNG)<br>
 * Mobile view<br>
 ![](Responsive%20outputs/mobileview.PNG)
+![](Responsive%20outputs/dropdown.PNG)
